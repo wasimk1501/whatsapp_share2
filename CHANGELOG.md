@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.0.3
+
+* Fix podspec issue
+
 ## 2.0.2
 
 * null safety
